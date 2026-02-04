@@ -3,6 +3,7 @@
 A simple yet powerful command-line calculator built with Python that performs core arithmetic operations with a clean interface, strong error handling, and an interactive terminal experience.
 
 🌟✨ KEY FEATURES
+
 ➕ Powerful Addition
 
 ➤ Add multiple numbers in a single input for faster calculations
