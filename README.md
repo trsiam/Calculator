@@ -35,8 +35,6 @@ This project focuses on building a clean and interactive CLI application while r
 
 It’s ideal for beginners who want practical experience with real terminal-based programs.
 
-📽️ Watch the short project demo video below.
-
 📽️ Watch the short project demo video below to see the calculator in action.
 <img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/9fdd1bc7-289c-43dd-9d55-2f15bda3cf3d" />
 
