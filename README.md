@@ -1,56 +1,41 @@
 🧮 Terminal-Based Python Calculator
 
-A simple yet powerful command-line calculator built with Python that performs core arithmetic operations with a clean interface, strong error handling, and an interactive terminal experience.
+A simple yet powerful command-line calculator built with Python.
+It supports core arithmetic operations with strong error handling and a clean, interactive terminal experience.
 
-🌟✨ KEY FEATURES
+✨ Key Features
 
-➕ Powerful Addition
+➕ Addition — Add multiple numbers in a single input
 
-➤ Add multiple numbers in a single input for faster calculations
+➖ Subtraction — Step-by-step, sequential calculation
 
-➖ Step-by-Step Subtraction
+✖️ Multiplication — Multiply multiple values at once
 
-➤ Performs subtraction sequentially, ensuring logical and clear results
+➗ Division — Rounded results for clean output
 
-✖️ Multi-Value Multiplication
+❌ Error Handling — Gracefully handles invalid inputs
 
-➤ Multiply any number of values at once
+🎨 Better UX — Color-coded terminal messages
 
-➗ Clean Division Output
+🔁 Continuous Mode — Runs until the user exits
 
-➤ Division results are rounded for neat and readable output
+🖥️ ASCII Interface — Calculator-style terminal layout
 
-❌ Robust Error Handling
-
-➤ Gracefully handles invalid or non-numeric inputs
-
-🎨 Enhanced Terminal UX
-
-➤ Color-coded error messages for better visibility and user experience
-
-🔁 Continuous Operation
-
-➤ Calculator keeps running until the user explicitly exits
-
-🖥️ ASCII-Style Interface
-
-➤ Classic calculator-like layout rendered directly in the terminal
-
-🛠️✨ TOOLS & TECHNOLOGIES USED
+🛠️ Tools & Technologies
 
 🐍 Python
 
-🎨 termcolor — colored terminal output
+🎨 termcolor
 
-⚙️ sys — clean program exit handling
+⚙️ sys
 
-🎯 PROJECT OVERVIEW
+🎯 Project Overview
 
-This project is designed to strengthen Python fundamentals such as functions, loops, recursion, input validation, and terminal interaction. It’s ideal for beginners who want hands-on experience building real, interactive CLI applications.
+This project focuses on building a clean and interactive CLI application while reinforcing Python fundamentals such as functions, loops, recursion, and input validation.
 
-The calculator focuses on usability, clarity, and reliability—making it both a learning tool and a practical utility.
+It’s ideal for beginners who want practical experience with real terminal-based programs.
 
-📽️ Watch the short project demo video below to see it in action.
+📽️ Watch the short project demo video below.
 
 📽️ Watch the short project demo video below to see the calculator in action.
 <img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/9fdd1bc7-289c-43dd-9d55-2f15bda3cf3d" />
