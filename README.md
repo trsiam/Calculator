@@ -5,29 +5,29 @@ It supports core arithmetic operations with strong error handling and a clean, i
 
 ✨ Key Features
 
-➕ Addition — Add multiple numbers in a single input
+● ➕ Addition — Add multiple numbers in a single input
 
-➖ Subtraction — Step-by-step, sequential calculation
+● ➖ Subtraction — Step-by-step, sequential calculation
 
-✖️ Multiplication — Multiply multiple values at once
+● ✖️ Multiplication — Multiply multiple values at once
 
-➗ Division — Rounded results for clean output
+● ➗ Division — Rounded results for clean output
 
-❌ Error Handling — Gracefully handles invalid inputs
+● ❌ Error Handling — Gracefully handles invalid inputs
 
-🎨 Better UX — Color-coded terminal messages
+● 🎨 Better UX — Color-coded terminal messages
 
-🔁 Continuous Mode — Runs until the user exits
+● 🔁 Continuous Mode — Runs until the user exits
 
-🖥️ ASCII Interface — Calculator-style terminal layout
+● 🖥️ ASCII Interface — Calculator-style terminal layout
 
 🛠️ Tools & Technologies
 
-🐍 Python
+● 🐍 Python
 
-🎨 termcolor
+● 🎨 termcolor
 
-⚙️ sys
+● ⚙️ sys
 
 🎯 Project Overview
 
